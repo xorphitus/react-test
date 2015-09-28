@@ -13,7 +13,10 @@
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^5.8.25",
+    "eslint": "^1.5.1",
+    "eslint-plugin-react": "^3.4.2",
     "gulp": "^3.9.0",
-    "gulp-babel": "^5.2.1"
+    "gulp-babel": "^5.2.1",
+    "gulp-eslint": "^1.0.0"
   }
 }
